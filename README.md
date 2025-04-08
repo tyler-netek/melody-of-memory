@@ -45,7 +45,7 @@ This document outlines the core concepts for the first game in the series, tenta
 **4. Key Mechanics & Systems (Continued):**
 
 * **Diverse Hollowing Manifestations:** Plagued towns reflect local themes (e.g., Anxiety Hub -> Clockwork Puppets, Regret Hub -> Stone Echoes, Nature Hub -> Overgrown Puppets, Vanity Hub -> Glass Masks).
-* **Choice & Consequence:** Binary choices, autosave permanence. Pre-skip choices impact NPC mental states -> vulnerability -> potential Hollowing type & spread post-skip. Temptation/dilemmas included. Ignoring Important NPCs defaults them to Hollowed.
+* **Choice & Consequence:** Binary choices, autosave permanence (Only one save file per playthrough, you can save at any point, but your choices will be permanent - like real life). Pre-skip choices impact NPC mental states -> vulnerability -> potential Hollowing type & spread post-skip. Temptation/dilemmas included. Ignoring Important NPCs defaults them to Hollowed.
 * **Musical Instrument:** Learn melodies via various methods. Use contextually for puzzles, interaction, potentially affecting Replacements.
 
 ---
